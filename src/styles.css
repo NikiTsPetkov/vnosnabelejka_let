@@ -1,0 +1,16 @@
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
+#myCanvas {
+  border: 1px solid #000000;
+}
+#total {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  margin-left: -200px;
+  margin-top: 185px;
+  font-size: 110%;
+}
